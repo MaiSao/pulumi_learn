@@ -1,0 +1,4 @@
+config:
+  pulumi:template: kubernetes-java
+environment:
+  - pulumi
