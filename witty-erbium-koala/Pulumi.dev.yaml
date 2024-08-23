@@ -1,0 +1,5 @@
+config:
+  pulumi:template: helm-kubernetes-yaml
+  witty-erbium-koala:k8sNamespace: nginx-ingress
+environment:
+  - pulumi
