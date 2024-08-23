@@ -1,0 +1,8 @@
+config:
+  inspiring-neodymium-pangolin:cloudName: google-europe-west1
+  inspiring-neodymium-pangolin:planName: business-4
+  inspiring-neodymium-pangolin:projectName: aivenpython
+  inspiring-neodymium-pangolin:serviceName: kafka-gcp-eu
+  pulumi:template: aiven-python
+environment:
+  - k8s
